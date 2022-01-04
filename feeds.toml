@@ -8,7 +8,7 @@ waitForSelector = ".latest-chap span a"
 waitUntil = "networkidle"
 onFail = "skip"
 
-[EvilGod]
+[EvilGod2]
 title = "The title2"
 url = "https://manhuaus.com/manga/im-an-evil-god/"
 entrySelector = "ul.main"
