@@ -1,26 +1,29 @@
-[EvilGod]
+[EvilGod2]
 title = "I'm an Evil God"
 url = "https://manhuaus.com/?s=Wo+Wei+Xie+Di&post_type=wp-manga"
 entrySelector = "div.latest-chap span.chapter"
 titleSelector = "a"
 linkSelector = "a"
-waitUntil = "networkidle"
-onFail = "error"
-
-[EvilGod2]
-title = "I'm an Evil God"
-url = "https://manhuaus.com/manga/im-an-evil-god/"
-entrySelector = "li.wp-manga-chapter"
-titleSelector = "a"
-linkSelector = "a"
+contentSelector = "a"
 waitUntil = "networkidle"
 onFail = "error"
 
 [EvilGod3]
 title = "I'm an Evil God"
+url = "https://manhuaus.com/manga/im-an-evil-god/"
+entrySelector = "li.wp-manga-chapter"
+titleSelector = "a"
+linkSelector = "a"
+contentSelector = "a"
+waitUntil = "networkidle"
+onFail = "error"
+
+[EvilGod]
+title = "I'm an Evil God"
 url = "https://mangahub.io/manga/i-m-an-evil-god/"
 entrySelector = "ul.list-group li"
 titleSelector = "a span"
 linkSelector = "a"
+contentSelector = "a span"
 waitUntil = "networkidle"
 onFail = "error"
