@@ -15,3 +15,12 @@ titleSelector = "li.wp-manga-chapter"
 linkSelector = "li.wp-manga-chapter a"
 waitUntil = "networkidle"
 onFail = "error"
+
+[EvilGod3]
+title = "The title3"
+url = "https://mangahub.io/manga/i-m-an-evil-god/"
+entrySelector = "div.container-fluid"
+titleSelector = "a span"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "error"
