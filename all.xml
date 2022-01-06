@@ -2,8 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Owyn.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-06T05:42:38.168Z</updated>
+    <updated>2022-01-06T14:53:52.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Access denied | manhuaus.com used Cloudflare to restrict access (I'm an Evil God)]]></title>
+        <id>https://Owyn.github.io/feeds/all.xml</id>
+        <link href="https://Owyn.github.io/feeds/all.xml"/>
+        <updated>2022-01-06T14:53:28.430Z</updated>
+        <content type="html"><![CDATA[<!--<![endif]--><head>
+<title>Access denied | manhuaus.com used Cloudflare to restrict access</title>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection">
+<script defer="" src="https://api.radar.cloudflare.com/beacon.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="cf-wrapper">
+<div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+<div id="cf-error-details" class="p-0">
+<header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+<h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+<span data-translate="error">Error</span>
+<span>1020</span>
+</h1>
+<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 6c95c6a6bfb76392 •</span>
+<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2022-01-06 14:53:27 UTC</span>
+<h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">Access denied</h2>
+</header>
+<section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+<div id="what-happened-section" class="w-1/2 md:w-full">
+<h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+<p>This website is using a security service to protect itself from online attacks.</p>
+</div>
+</section>
+<div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+<p class="text-13">
+<span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">6c95c6a6bfb76392</strong></span>
+<span class="cf-footer-separator sm:hidden">•</span>
+<span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 13.89.202.79</span>
+<span class="cf-footer-separator sm:hidden">•</span>
+<span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+<span style="display: none !important;"></span></body>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#220.1 - Chapter 220.1 (I'm an Evil God)]]></title>
+        <id>https://mangahub.io/chapter/i-m-an-evil-god/chapter-220.1</id>
+        <link href="https://mangahub.io/chapter/i-m-an-evil-god/chapter-220.1"/>
+        <updated>2022-01-06T14:53:51.289Z</updated>
+        <content type="html"><![CDATA[<span class="text-secondary _3D1SJ">#<!-- -->220.1</span><span class="_2IG5P"> <!-- -->- <!-- -->Chapter 220.1</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#219.2 - Chapter 219.2 (I'm an Evil God)]]></title>
         <id>https://mangahub.io/chapter/i-m-an-evil-god/chapter-219.2</id>
