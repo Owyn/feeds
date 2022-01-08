@@ -6,7 +6,7 @@ titleSelector = "a"
 linkSelector = "a"
 contentSelector = "a"
 waitUntil = "networkidle"
-onFail = "error"
+onFail = "stale"
 
 [EvilGod3]
 title = "I'm an Evil God"
@@ -16,7 +16,7 @@ titleSelector = "a"
 linkSelector = "a"
 contentSelector = "a"
 waitUntil = "networkidle"
-onFail = "error"
+onFail = "stale"
 
 [EvilGod4]
 title = "I'm an Evil God"
@@ -25,7 +25,7 @@ entrySelector = ":root"
 titleSelector = "*"
 linkSelector = "*"
 waitUntil = "networkidle"
-onFail = "error"
+onFail = "stale"
 
 [EvilGod]
 title = "I'm an Evil God"
@@ -35,4 +35,4 @@ titleSelector = "a span"
 linkSelector = "a"
 contentSelector = "a span"
 waitUntil = "networkidle"
-onFail = "error"
+onFail = "stale"
