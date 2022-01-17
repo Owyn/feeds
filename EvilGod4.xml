@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://manhuaus.com/manga/im-an-evil-god/</id>
     <title>I'm an Evil God</title>
-    <updated>2022-01-16T17:48:54.041Z</updated>
+    <updated>2022-01-17T05:43:24.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://manhuaus.com/manga/im-an-evil-god/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Access denied | manhuaus.com used Cloudflare to restrict access]]></title>
         <id>https://manhuaus.com/manga/im-an-evil-god/</id>
         <link href="https://manhuaus.com/manga/im-an-evil-god/"/>
-        <updated>2022-01-16T17:48:05.772Z</updated>
+        <updated>2022-01-17T05:42:21.667Z</updated>
         <content type="html"><![CDATA[<!--<![endif]--><head>
 <title>Access denied | manhuaus.com used Cloudflare to restrict access</title>
 <meta charset="UTF-8">
@@ -29,8 +29,8 @@
 <span data-translate="error">Error</span>
 <span>1020</span>
 </h1>
-<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 6ce92c31999b81bd •</span>
-<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2022-01-16 17:48:04 UTC</span>
+<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 6ced427aeebf2d85 •</span>
+<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2022-01-17 05:42:20 UTC</span>
 <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">Access denied</h2>
 </header>
 <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
@@ -41,9 +41,9 @@
 </section>
 <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
 <p class="text-13">
-<span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">6ce92c31999b81bd</strong></span>
+<span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">6ced427aeebf2d85</strong></span>
 <span class="cf-footer-separator sm:hidden">•</span>
-<span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 20.119.255.228</span>
+<span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 13.89.1.80</span>
 <span class="cf-footer-separator sm:hidden">•</span>
 <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
 </p>
