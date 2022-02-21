@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Owyn.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-20T17:39:41.684Z</updated>
+    <updated>2022-02-21T05:39:20.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Access denied | manhuaus.com used Cloudflare to restrict access
@@ -17,7 +17,7 @@
 b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})(); (I'm an Evil God)]]></title>
         <id>https://Owyn.github.io/feeds/all.xml</id>
         <link href="https://Owyn.github.io/feeds/all.xml"/>
-        <updated>2022-02-20T17:39:15.104Z</updated>
+        <updated>2022-02-21T05:39:00.029Z</updated>
         <content type="html"><![CDATA[<!--<![endif]--><head>
 <title>Access denied | manhuaus.com used Cloudflare to restrict access</title>
 <meta charset="UTF-8">
@@ -41,8 +41,8 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
 <span data-translate="error">Error</span>
 <span>1020</span>
 </h1>
-<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 6e09835f591d59b0 •</span>
-<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2022-02-20 17:39:14 UTC</span>
+<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 6e0da1b12cfbe1be •</span>
+<span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2022-02-21 05:38:59 UTC</span>
 <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">Access denied</h2>
 </header>
 <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
@@ -63,9 +63,9 @@ Thank you for your feedback!
 </div>
 <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
 <p class="text-13">
-<span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">6e09835f591d59b0</strong></span>
+<span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">6e0da1b12cfbe1be</strong></span>
 <span class="cf-footer-separator sm:hidden">•</span>
-<span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 20.114.152.117</span>
+<span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 40.69.191.214</span>
 <span class="cf-footer-separator sm:hidden">•</span>
 <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
 </p>
