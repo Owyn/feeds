@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mangahub.io/manga/i-m-an-evil-god/</id>
     <title>I'm an Evil God</title>
-    <updated>2022-02-26T05:39:48.253Z</updated>
+    <updated>2022-02-26T17:39:51.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mangahub.io/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[#235.1 - Chapter 235.1]]></title>
+        <id>https://mangahub.io/chapter/i-m-an-evil-god/chapter-235.1</id>
+        <link href="https://mangahub.io/chapter/i-m-an-evil-god/chapter-235.1"/>
+        <updated>2022-02-26T17:39:50.068Z</updated>
+        <content type="html"><![CDATA[<span class="text-secondary _3D1SJ">#<!-- -->235.1</span><span class="_2IG5P"> <!-- -->- <!-- -->Chapter 235.1</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#235 - Chapter 235]]></title>
+        <id>https://mangahub.io/chapter/i-m-an-evil-god/chapter-235</id>
+        <link href="https://mangahub.io/chapter/i-m-an-evil-god/chapter-235"/>
+        <updated>2022-02-26T17:39:50.068Z</updated>
+        <content type="html"><![CDATA[<span class="text-secondary _3D1SJ">#<!-- -->235</span><span class="_2IG5P"> <!-- -->- <!-- -->Chapter 235</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#234.1 - Chapter 234.1]]></title>
         <id>https://mangahub.io/chapter/i-m-an-evil-god/chapter-234.1</id>
