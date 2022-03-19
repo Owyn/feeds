@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mangahub.io/manga/i-m-an-evil-god/</id>
     <title>I'm an Evil God</title>
-    <updated>2022-03-19T05:39:39.213Z</updated>
+    <updated>2022-03-19T17:41:00.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mangahub.io/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[#241 - Chapter 241]]></title>
+        <id>https://mangahub.io/chapter/i-m-an-evil-god/chapter-241</id>
+        <link href="https://mangahub.io/chapter/i-m-an-evil-god/chapter-241"/>
+        <updated>2022-03-19T17:40:58.848Z</updated>
+        <content type="html"><![CDATA[<span class="text-secondary _3D1SJ">#<!-- -->241</span><span class="_2IG5P"> <!-- -->- <!-- -->Chapter 241</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#240 - Chapter 240]]></title>
         <id>https://mangahub.io/chapter/i-m-an-evil-god/chapter-240</id>
