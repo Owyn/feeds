@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://manhuaus.com/manga/im-an-evil-god/</id>
     <title>I'm an Evil God</title>
-    <updated>2022-03-27T05:39:38.480Z</updated>
+    <updated>2022-03-27T17:41:49.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://manhuaus.com/manga/im-an-evil-god/favicon.ico</icon>
     <entry>
@@ -17,11 +17,11 @@
 b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
 
 
-         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("6f25c8d6ade36faf");else{var a=document.createElement("textarea");a.value="6f25c8d6ade36faf";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
+         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("6f29ea50fda657a6");else{var a=document.createElement("textarea");a.value="6f29ea50fda657a6";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
 function(){var b=document.getElementById("plain-ray-id"),a=document.getElementById("click-to-copy-btn"),d=document.getElementById("reload-btn");"classList"in b&&(b.classList.add("hidden"),a.classList.remove("hidden"),d.classList.remove("hidden"),a.addEventListener("click",c))})}})();]]></title>
         <id>https://manhuaus.com/manga/im-an-evil-god/</id>
         <link href="https://manhuaus.com/manga/im-an-evil-god/"/>
-        <updated>2022-03-27T05:39:16.259Z</updated>
+        <updated>2022-03-27T17:41:10.828Z</updated>
         <content type="html"><![CDATA[<head>
 <title>Access was denied</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -34,7 +34,7 @@ function(){var b=document.getElementById("plain-ray-id"),a=document.getElementBy
 b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
 </script>
 <script type="text/javascript">
-         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("6f25c8d6ade36faf");else{var a=document.createElement("textarea");a.value="6f25c8d6ade36faf";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
+         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("6f29ea50fda657a6");else{var a=document.createElement("textarea");a.value="6f29ea50fda657a6";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
 function(){var b=document.getElementById("plain-ray-id"),a=document.getElementById("click-to-copy-btn"),d=document.getElementById("reload-btn");"classList"in b&&(b.classList.add("hidden"),a.classList.remove("hidden"),d.classList.remove("hidden"),a.addEventListener("click",c))})}})();
       </script>
 <script defer="" src="https://api.radar.cloudflare.com/beacon.js"></script>
@@ -65,10 +65,10 @@ Reload page
 <p class="ray-id-wrapper">
 Ray ID:
 <span class="plain-ray-id hidden" id="plain-ray-id">
-6f25c8d6ade36faf
+6f29ea50fda657a6
 </span>
 <button class="click-to-copy-btn" id="click-to-copy-btn" title="Click to copy Ray ID" type="button">
-<span class="ray-id">6f25c8d6ade36faf</span><span class="copy-label" id="copy-label">Copy</span>
+<span class="ray-id">6f29ea50fda657a6</span><span class="copy-label" id="copy-label">Copy</span>
 </button>
 </p>
 <ol>
