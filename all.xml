@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Owyn.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-01T05:40:50.776Z</updated>
+    <updated>2022-04-01T17:45:25.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Access was denied
@@ -16,11 +16,11 @@
 b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
 
 
-         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("6f4efd5efe9f5d8b");else{var a=document.createElement("textarea");a.value="6f4efd5efe9f5d8b";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
+         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("6f5322abebb1678d");else{var a=document.createElement("textarea");a.value="6f5322abebb1678d";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
 function(){var b=document.getElementById("plain-ray-id"),a=document.getElementById("click-to-copy-btn"),d=document.getElementById("reload-btn");"classList"in b&&(b.classList.add("hidden"),a.classList.remove("hidden"),d.classList.remove("hidden"),a.addEventListener("click",c))})}})(); (I'm an Evil God)]]></title>
         <id>https://Owyn.github.io/feeds/all.xml</id>
         <link href="https://Owyn.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:40:24.402Z</updated>
+        <updated>2022-04-01T17:44:55.026Z</updated>
         <content type="html"><![CDATA[<head>
 <title>Access was denied</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -33,7 +33,7 @@ function(){var b=document.getElementById("plain-ray-id"),a=document.getElementBy
 b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
 </script>
 <script type="text/javascript">
-         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("6f4efd5efe9f5d8b");else{var a=document.createElement("textarea");a.value="6f4efd5efe9f5d8b";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
+         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("6f5322abebb1678d");else{var a=document.createElement("textarea");a.value="6f5322abebb1678d";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
 function(){var b=document.getElementById("plain-ray-id"),a=document.getElementById("click-to-copy-btn"),d=document.getElementById("reload-btn");"classList"in b&&(b.classList.add("hidden"),a.classList.remove("hidden"),d.classList.remove("hidden"),a.addEventListener("click",c))})}})();
       </script>
 <script defer="" src="https://api.radar.cloudflare.com/beacon.js"></script>
@@ -64,10 +64,10 @@ Reload page
 <p class="ray-id-wrapper">
 Ray ID:
 <span class="plain-ray-id hidden" id="plain-ray-id">
-6f4efd5efe9f5d8b
+6f5322abebb1678d
 </span>
 <button class="click-to-copy-btn" id="click-to-copy-btn" title="Click to copy Ray ID" type="button">
-<span class="ray-id">6f4efd5efe9f5d8b</span><span class="copy-label" id="copy-label">Copy</span>
+<span class="ray-id">6f5322abebb1678d</span><span class="copy-label" id="copy-label">Copy</span>
 </button>
 </p>
 <ol>
@@ -105,7 +105,7 @@ Performance &amp; security by <a rel="noopener noreferrer" href="https://www.clo
 </div>
 
 
-<span style="display: none !important;"><img src="https://serverless-benchmarks-js.compute-pipe.com/?test=99c77b3966a6b6c91bd49fb6b0f712bc80fef174b1607e36109828d5ac0df4ce&amp;img=1&amp;r=62316529" style="display: none !important;" referrerpolicy="no-referrer" width="0" height="0"><img src="https://stackpath-map3.cedexis-test.com/img/r20-100KB.png?r=98919427" style="display: none !important;" referrerpolicy="no-referrer" width="0" height="0"><img src="https://benchmark.1e100cdn.net/r20-100KB.png?r=34409236" style="display: none !important;" referrerpolicy="no-referrer" width="0" height="0"><img src="https://ptcfc.com/img/284/r20-100KB.png?r=57644527" style="display: none !important;" referrerpolicy="no-referrer" width="0" height="0"><img src="https://p29.cedexis-test.com/img/r20-100KB.png?r=17026499" style="display: none !important;" referrerpolicy="no-referrer" width="0" height="0"><img src="https://cdnetworks.cedexis-test.com/img/17653/r20-100KB.png?r=56768066" style="display: none !important;" referrerpolicy="no-referrer" width="0" height="0"><img src="https://serverless-benchmarks-rust.compute-pipe.com/?test=14016c4aaf282fbb6ae2ea8fbcbf139c641c291709185b8fb8a38913177b9b33&amp;img=1&amp;r=70233515" style="display: none !important;" referrerpolicy="no-referrer" width="0" height="0"></span></body>]]></content>
+<span style="display: none !important;"></span></body>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[#244 - Chapter 244 (I'm an Evil God)]]></title>
