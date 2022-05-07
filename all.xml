@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Owyn.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-06T17:47:29.040Z</updated>
+    <updated>2022-05-07T05:42:34.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Access denied
@@ -15,11 +15,11 @@
 b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
 
 
-         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("707389bbfd508221");else{var a=document.createElement("textarea");a.value="707389bbfd508221";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
+         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("7077a1331a029c1e");else{var a=document.createElement("textarea");a.value="7077a1331a029c1e";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
 function(){var b=document.getElementById("plain-ray-id"),a=document.getElementById("click-to-copy-btn");"classList"in b&&(b.classList.add("hidden"),a.classList.remove("hidden"),a.addEventListener("click",c))})}})(); (I'm an Evil God)]]></title>
         <id>https://Owyn.github.io/feeds/all.xml</id>
         <link href="https://Owyn.github.io/feeds/all.xml"/>
-        <updated>2022-05-06T17:46:55.929Z</updated>
+        <updated>2022-05-07T05:41:59.590Z</updated>
         <content type="html"><![CDATA[<head>
 <title>Access denied</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -31,7 +31,7 @@ function(){var b=document.getElementById("plain-ray-id"),a=document.getElementBy
 b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
 </script>
 <script>
-         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("707389bbfd508221");else{var a=document.createElement("textarea");a.value="707389bbfd508221";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
+         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("7077a1331a029c1e");else{var a=document.createElement("textarea");a.value="7077a1331a029c1e";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
 function(){var b=document.getElementById("plain-ray-id"),a=document.getElementById("click-to-copy-btn");"classList"in b&&(b.classList.add("hidden"),a.classList.remove("hidden"),a.addEventListener("click",c))})}})();
       </script>
 <script defer="" src="https://api.radar.cloudflare.com/beacon.js"></script>
@@ -59,10 +59,10 @@ function(){var b=document.getElementById("plain-ray-id"),a=document.getElementBy
 <p class="ray-id-wrapper">
 Ray ID:
 <span class="plain-ray-id hidden" id="plain-ray-id">
-707389bbfd508221
+7077a1331a029c1e
 </span>
 <button class="click-to-copy-btn" id="click-to-copy-btn" title="Click to copy Ray ID" type="button">
-<span class="ray-id">707389bbfd508221</span><span class="copy-label" id="copy-label">Copy</span>
+<span class="ray-id">7077a1331a029c1e</span><span class="copy-label" id="copy-label">Copy</span>
 </button>
 </p>
 <ol>
@@ -100,7 +100,7 @@ Performance &amp; security by <a rel="noopener noreferrer" href="https://www.clo
 </div>
 
 
-<span style="display: none !important;"></span></body>]]></content>
+<span style="display: none !important;"><img src="https://serverless-benchmarks-rust.compute-pipe.com/?test=14016c4aaf282fbb6ae2ea8fbcbf139c641c291709185b8fb8a38913177b9b33&amp;img=1&amp;r=14171827" style="display: none !important;" referrerpolicy="no-referrer" width="0" height="0"></span></body>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[#254 - chapter 254 (I'm an Evil God)]]></title>
