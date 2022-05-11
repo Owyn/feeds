@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://manhuaus.com/?s=Wo+Wei+Xie+Di&amp;post_type=wp-manga</id>
     <title>I'm an Evil God</title>
-    <updated>2022-05-11T05:48:53.330Z</updated>
+    <updated>2022-05-11T17:55:16.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://manhuaus.com/favicon.ico</icon>
+    <icon>https://manhuaus.com/wp-content/uploads/2020/09/cropped-LOGO1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Chapter 255]]></title>
+        <id>https://manhuaus.com/manga/im-an-evil-god-0/chapter-255/</id>
+        <link href="https://manhuaus.com/manga/im-an-evil-god-0/chapter-255/"/>
+        <updated>2022-05-11T17:51:45.320Z</updated>
+        <content type="html"><![CDATA[Chapter 255]]></content>
+    </entry>
 </feed>
